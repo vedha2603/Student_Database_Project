@@ -1,0 +1,27 @@
+*{
+			 margin: 0px;
+   			 padding: 0px;
+    		box-sizing: border-box;
+		}
+
+form{
+			background: #fff;
+   			 border-radius: 10px;
+    		overflow: hidden;
+			width: 300px;
+			height: 400px;
+			margin: auto;
+		}
+		div{
+			background-color:#8a92bf ;
+			display: flex;
+    		flex-wrap: wrap;
+    		width: 100%;
+    		min-height: 100vh;
+			/*background: linear-gradient(45deg, #00dbde, #fc00ff);*/
+		}
+h2{
+			font-family: Poppins-Bold;
+		    font-size: 39px;
+		    color: #333333;
+		}
